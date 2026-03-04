@@ -6,6 +6,9 @@
 - [Assertion](#assertion)
 - [Dynamic analysis](#dynamic-analysis)
 - [Static analysis](#static-analysis)
+- [Boundary value analysis](#boundary-value-analysis)
+- [Unit test](#unit-test)
+- [End-to-end test](#end-to-end-test)
 
 ## What is testing
 
@@ -42,3 +45,19 @@ Static analysis checks code for errors without running it. It can detect type er
 Examples:
 
 - [`Pylance`](./python.md#pylance)
+
+## Boundary value analysis
+
+<!-- TODO -->
+
+## Unit test
+
+<!-- TODO -->
+
+End-to-end (E2E) tests
+
+## End-to-end test
+
+<!-- TODO -->
+
+End-to-end (E2E) tests are ...
